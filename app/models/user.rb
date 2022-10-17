@@ -1,5 +1,5 @@
 # email:string
-# password_diegest:string
+# password_digest:string
 #
 # password:string virtual
 # password_confirmation:string virtual
